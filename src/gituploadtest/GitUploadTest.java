@@ -16,6 +16,8 @@ public class GitUploadTest {
      */
     public static void main(String[] args) {
         System.out.println("Ths is a test...");
+        //Edit by MythicalMeow
+        System.out.println("And this is a raid by the MythicalMeow");
     }
     
 }
